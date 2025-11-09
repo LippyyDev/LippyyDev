@@ -22,7 +22,7 @@ I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Nege
 
 ###
 
-<img align="left" height="200" src="https://media1.tenor.com/m/5KiU5c7lhMcAAAAd/tertawa-tertawa-tapi-terluka.gif"  />
+<img align="left" height="200" src="https://media1.tenor.com/m/5KiU5c7lhMcAAAAd/tertawa-tertawa-tapi-terluka.gif"/>
 
 ###
 
