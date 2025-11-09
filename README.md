@@ -26,7 +26,7 @@ I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Nege
 ###
 
 <div align="left">
-  <img height="181" src="https://media1.tenor.com/m/j1raonaU590AAAAd/ryan-gosling-sad-sad-gosling.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/j1raonaU590AAAAd/ryan-gosling-sad-sad-gosling.gif"  />
 </div>
 
 ###
