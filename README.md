@@ -5,7 +5,6 @@
 I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Negeri Makassar, passionate about UI/UX design and web development. I enjoy creating intuitive and visually engaging digital experiences while developing efficient web and mobile applications. I’m currently learning modern JavaScript and Python frameworks to strengthen my full-stack development skills. As an AI enthusiast, I also love exploring how artificial intelligence can enhance user interaction, automation, and design innovation. 
 
 
-## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/735268582484738069) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lipppyy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liip.qdry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhalifqadri) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aliiippy_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MuhammadAlifQadriCh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alifqadry@gmail.com)
 
 <picture>
