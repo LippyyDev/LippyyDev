@@ -18,16 +18,12 @@ I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Nege
 
 <h3 align="left">Profil githubnya udah keren, tapi orangnya masih tetap malas ngoding</h3>
 
-###
+<h3 align="left">Profil githubnya udah keren, tapi orangnya masih tetap malas ngoding</h3>
 
+###
 <h3 align="left">Gua:</h3>
-
 ###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/RCYGUTCaYowAAAAM/tertawa-tapi-terluka-tertawa.gif"  />
-</div>
-
+<img align="left" height="200" src="https://media.tenor.com/RCYGUTCaYowAAAAM/tertawa-tapi-terluka-tertawa.gif"  />
 ###
 
 
