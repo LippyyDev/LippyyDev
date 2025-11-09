@@ -2,7 +2,10 @@
 ![subtitlE](https://github.com/user-attachments/assets/ce14569f-15f1-4be4-9c5b-dbe9d030942f)
 
 
-I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Negeri Makassar, passionate about UI/UX design and web development. I enjoy creating intuitive and visually engaging digital experiences while developing efficient web and mobile applications. I’m currently learning modern JavaScript and Python frameworks to strengthen my full-stack development skills. As an AI enthusiast, I also love exploring how artificial intelligence can enhance user interaction, automation, and design innovation.
+I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Negeri Makassar, passionate about UI/UX design and web development. I enjoy creating intuitive and visually engaging digital experiences while developing efficient web and mobile applications. I’m currently learning modern JavaScript and Python frameworks to strengthen my full-stack development skills. As an AI enthusiast, I also love exploring how artificial intelligence can enhance user interaction, automation, and design innovation. 
+
+<img width="320" height="288" alt="image" src="https://github.com/user-attachments/assets/92c20f72-bebe-493e-bc19-bcd51899f60c" />
+
 
 
 ## 🌐 Socials:
