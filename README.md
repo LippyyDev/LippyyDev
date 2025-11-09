@@ -14,9 +14,21 @@ I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Nege
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LippyyDev/LippyyDev/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/ap6LSaSeQ_kAAAAd/ishowspeed-try-not-to-laugh.gif"  />
-</div>
+<img align="right" height="225" src="https://media1.tenor.com/m/ap6LSaSeQ_kAAAAd/ishowspeed-try-not-to-laugh.gif"  />
+
+###
+
+<img align="right" height="200" src="https://media1.tenor.com/m/5KiU5c7lhMcAAAAd/tertawa-tertawa-tapi-terluka.gif"  />
+
+###
+
+<h2 align="left">Profil Github Udah Keren, tapi Orangnya Masih Malas Ngoding</h2>
+
+###
+
+<h1 align="left">Gua:</h1>
+
+###
 
 
 # 💻 Tech Stack:
