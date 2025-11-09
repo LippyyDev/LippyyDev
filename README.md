@@ -14,12 +14,6 @@ I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Nege
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LippyyDev/LippyyDev/output/pacman-contribution-graph.svg">
 </picture>
 
-<h3 align="left">Profil githubnya udah keren, tapi orangnya masih tetap malas ngoding</h3>
-
-<h3 align="left">Profil githubnya udah keren, tapi orangnya masih tetap malas ngoding</h3>
-
-<h3 align="left">Profil githubnya udah keren, tapi orangnya masih tetap malas ngoding</h3>
-
 ###
 <h3 align="left">Gua:</h3>
 ###
