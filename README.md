@@ -16,8 +16,6 @@ I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Nege
 
 <h3 align="left">Profil githubnya udah keren, tapi orangnya masih tetap malas ngoding</h3>
 
-<h3 align="left">Profil githubnya udah keren, tapi orangnya masih tetap malas ngoding</h3>
-
 ###
 
 <h3 align="left">Gua:</h3>
