@@ -1,5 +1,6 @@
 # 💫 About Me:
-![subtitlE](https://github.com/user-attachments/assets/3e78603e-d215-428b-8d52-70718a0e4cf5)
+![subtitlE](https://github.com/user-attachments/assets/ce14569f-15f1-4be4-9c5b-dbe9d030942f)
+
 
 I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Negeri Makassar 
 I'm passionate about designing, editing, and developing web & mobile apps 
