@@ -2,14 +2,10 @@
 ![subtitlE](https://github.com/user-attachments/assets/ce14569f-15f1-4be4-9c5b-dbe9d030942f)
 
 
-I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Negeri Makassar 
-I'm passionate about designing, editing, and developing web & mobile apps 
-I have a keen interest in JavaScript, PHP, Python
+I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Negeri Makassar, passionate about UI/UX design and web development. I enjoy creating intuitive and visually engaging digital experiences while developing efficient web and mobile applications. I’m currently learning modern JavaScript and Python frameworks to strengthen my full-stack development skills. As an AI enthusiast, I also love exploring how artificial intelligence can enhance user interaction, automation, and design innovation.
 
-🌱 I’m currently learning Kotlin for Android mobile app development, while also sharpening my skills in JavaScript and PHP to become a more well-rounded full-stack developer. I’m also exploring C# for campus project needs 👨‍💻🎓
 
-⚡ Fun fact: My code is composed of 70% GPT assistance and 30% my own prompt skills! 😆🤖💡
-
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/735268582484738069) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lipppyy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liip.qdry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhalifqadri) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aliiippy_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MuhammadAlifQadriCh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alifqadry@gmail.com)
 
 <picture>
