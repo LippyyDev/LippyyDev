@@ -15,7 +15,7 @@ I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Nege
 
 ![subtitlE (1)](https://github.com/user-attachments/assets/61b508e9-f296-4c13-b438-3e9d8c7f8f5d)
 
-![165007508](https://github.com/user-attachments/assets/817765d0-0f10-4d44-9673-f42fa467caa6)
+<img width="837" height="205" alt="Screenshot 2025-11-09 181924" src="https://github.com/user-attachments/assets/7ab821aa-ee55-44be-b80a-6a93b6f42706" />
 
 
 # 💻 Tech Stack:
