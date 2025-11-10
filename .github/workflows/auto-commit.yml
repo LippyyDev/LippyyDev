@@ -1,0 +1,76 @@
+name: Random Commits Generator
+
+on:
+  schedule:
+    # jalan tiap jam dari jam 00 sampai 23 UTC (biar bisa random pick di script)
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  random-commits:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Maybe commit randomly
+        shell: bash
+        run: |
+          set -e
+          FILE="auto_update.log"
+          touch "$FILE"
+
+          # === RANDOM CONTROL ===
+          # random antara 0–1, kalau >0.70 -> lewati (jadi kira-kira 30% jam aktif)
+          RAND=$(awk -v seed=$RANDOM 'BEGIN{srand(seed); print rand()}')
+          if (( $(echo "$RAND > 0.70" | bc -l) )); then
+            echo "Skipping this hour ($RAND)"
+            exit 0
+          fi
+
+          # random jumlah commit 1–3 dalam satu jam ini
+          COUNT=$(( (RANDOM % 3) + 1 ))
+
+          # Array pesan (bervariasi & natural)
+          MESSAGES=(
+            "Routine system sync"
+            "Minor maintenance tweak"
+            "Daily heartbeat update"
+            "Refreshing repo data"
+            "Polishing minor details"
+            "Small improvement commit"
+            "Keeping it consistent"
+            "Regular log touch"
+            "Auto-update content"
+            "Routine background task"
+            "Quick optimization pass"
+            "Smoothing daily edges"
+            "Lightweight repo refresh"
+            "System pulse: alive"
+            "Maintenance checkpoint"
+            "Minor housekeeping"
+            "Refreshed logs and data"
+            "Routine check-up"
+            "Silent auto patch"
+          )
+
+          echo "This hour chosen for commit ($COUNT commit(s))"
+
+          for i in $(seq 1 $COUNT); do
+            IDX=$(( RANDOM % ${#MESSAGES[@]} ))
+            MSG="${MESSAGES[$IDX]}"
+            echo "$(date -u +"%Y-%m-%dT%H:%M:%SZ") — $MSG" >> "$FILE"
+
+            git add "$FILE"
+            git commit -m "$MSG [auto-commit]" || true
+          done
+
+          git push origin HEAD:$(git rev-parse --abbrev-ref HEAD)
