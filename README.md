@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:
 ![subtitlE](https://github.com/user-attachments/assets/ce14569f-15f1-4be4-9c5b-dbe9d030942f)
 
 
