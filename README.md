@@ -13,14 +13,6 @@ I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Nege
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LippyyDev/LippyyDev/output/pacman-contribution-graph.svg">
 </picture>
 
-<img width="1916" height="294" alt="Screenshot 2025-11-09 182247" src="https://github.com/user-attachments/assets/3dd20091-c1c6-4309-aa79-1453131ad188" />
-
-<h2 align="left">Reaksi gua dengan berita tersebut:</h2>
-
-###
-
-<img align="left" height="200" src="https://media1.tenor.com/m/RCYGUTCaYowAAAAd/tertawa-tapi-terluka-tertawa.gif"  />
-
 ###
 
 <div align="left">
