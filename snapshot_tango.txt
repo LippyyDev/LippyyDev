@@ -1,6 +1,0 @@
-# Snapshot Tango Txt
-
-Ringkasan perubahan pada 2026-03-16 06:59:55:
-  - Minor fix pada validasi
-  - Penyesuaian format output
-  - Pembersihan kode lama
