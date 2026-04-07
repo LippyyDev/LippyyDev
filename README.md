@@ -21,7 +21,7 @@ I’m Muhammad Alif Qadri, an Electrical Engineering student at Universitas Nege
 
 ![](https://github-readme-stats-fast.vercel.app/api?username=LippyyDev&show_icons=true&theme=omni)<br/>
 ![](https://github-readme-stats-fast.vercel.app/api/streak?username=LippyyDev&theme=omni)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LippyyDev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LippyyDev&layout=compact&theme=omni)
 
 </div>
 
